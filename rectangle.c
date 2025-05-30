@@ -9,11 +9,11 @@ int main()
         {
             if(i==0||i==9||j==0||j==9)
     {
- printf(" * ");
+ printf("*");
    }
     else
          {
-    printf("   ");
+    printf(" ");
         } 
         }
          printf("\n");
