@@ -10,7 +10,7 @@ int main()
 }
 void name()
 {
-    printf(" Rabin Haldukhal ");
+    printf(" \n Rabin Haldukhal \n");
 }
 void loop1()
 {
